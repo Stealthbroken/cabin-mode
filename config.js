@@ -20,12 +20,12 @@ window.CABIN_CONFIG = {
      4. Project settings → "Your apps" → Web app → copy the config here
      Leave apiKey empty to disable cloud entirely (data stays on-device). */
   firebase: {
-    apiKey:            "AIzaSyAZOHE3JipQCe3vEJoPyJ_btXS0LIA_giM",   // e.g. "AIzaSyD....."
-    authDomain:        "cabin-mode.firebaseapp.com",   // e.g. "cabin-mode.firebaseapp.com"
-    projectId:         "cabin-mode",   // e.g. "cabin-mode"
-    storageBucket:     "cabin-mode.firebasestorage.app",   // e.g. "cabin-mode.appspot.com"
-    messagingSenderId: "572991048085",
-    appId:             "1:572991048085:web:98465a54e332c2357d0e9c"
+    apiKey:            "",   // e.g. "AIzaSyD....."
+    authDomain:        "",   // e.g. "cabin-mode.firebaseapp.com"
+    projectId:         "",   // e.g. "cabin-mode"
+    storageBucket:     "",   // e.g. "cabin-mode.appspot.com"
+    messagingSenderId: "",
+    appId:             ""
   },
 
   /* ---------- Spotify (play / pause / skip + now-playing) ----------
